@@ -12,7 +12,7 @@ export default function Home() {
         />
         <link rel="icon" href="" />
       </Head>
-      <div>hello world !</div>
+      <div>hello Aurélie !</div>
     </>
   );
 }
